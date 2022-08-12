@@ -103,7 +103,7 @@ export default function Home() {
         }
 
         .title a {
-          color: #0070f3;
+          color: #FFC300;
           text-decoration: none;
         }
 
@@ -164,7 +164,7 @@ export default function Home() {
         .card:focus,
         .card:active {
           color: #0070f3;
-          border-color: #0070f3;
+          border-color: #FFC300;
         }
 
         .card h3 {
